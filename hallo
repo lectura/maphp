@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+<head><title> bern</title>
+    </head>
+<body>
+    
+    <?php
+    echo "hallo World ";
+    "<br>";
+    $color = "red";
+        echo $color;
+    
+    ?>
+    </body>
+
+</html>
